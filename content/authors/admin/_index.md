@@ -31,7 +31,7 @@ education:
     institution: University of Central Florida, FL
     year: 2024
   - course: MA English Literature
-    institution: St. Mary's University< TX
+    institution: St. Mary's University, TX
     year: 2018
   - course: BA in English-Extended Literature
     institution: California State University Northridge, CA
