@@ -28,13 +28,13 @@ interests:
 education:
   courses:
   - course: PhD Texts and Technology
-    institution: University of Central Florida
+    institution: University of Central Florida, FL
     year: 2024
   - course: MA English Literature
-    institution: St. Mary's University
+    institution: St. Mary's University< TX
     year: 2018
   - course: BA in English-Extended Literature
-    institution: California State University Northridge
+    institution: California State University Northridge, CA
     year: 2014
 
 # Social/Academic Networking
@@ -45,13 +45,13 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+#- icon: twitter
   icon_pack: fab
   link:
 - icon: google-scholar
   icon_pack: ai
   link:
-- icon: github
+#- icon: github
   icon_pack: fab
   link:
 # Link to a PDF of your resume/CV from the About widget.
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "battend@knights.ucf.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Dolores Batten is an Adjunct Professor at Eastern Florida State College. Her research interests include literature, critical theory, digital media, and cultural and feminist studies. She is the Essays Editor for the Academic Journal Plath Profiles and a current PhD Candidate at the University of Central Florida.
+Dolores Batten is an Adjunct Professor at Eastern Florida State College. Her research interests include literature, critical theory, digital media, and cultural and feminist studies. She is the Essays Editor for the Academic Journal Plath Profiles and a current PhD Student at the University of Central Florida.
