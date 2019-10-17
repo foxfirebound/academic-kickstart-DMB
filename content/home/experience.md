@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Texas"
   date_start = "2015-07-01"
-  date_end = "2018-06-31"
-  description = """Teacher, One Act Play Director, ESL Instructor, Gifted Instructor."""
+  date_end = "2018-06-15"
+  description = """Taught One Act Play ESL Gifted and English 6 to 8 grade."""
 
 +++
