@@ -15,7 +15,7 @@ role: English Professor EFSC, PhD Student UCF, Academic Journal Editor Plath Pro
 # Organizations/Affiliations
 organizations:
 - name: University of Central Florida
-  url: "https://ucf.edu/"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Dolores Batten is an English Lecturer at Eastern Florida State College.  She holds an MA in Literature and Language Arts from St. Mary's University in San Antonio, TX, and is an active member in both the Sigma Tau Delta English Honors Society as well as the National Society for Leadership and Success.  With over 10 years of experience in the teaching professions of secondary and collegiate education, she is now in the act of pursuing a PhD in Texts and Technology through the Digital Humanities program offered at the University of Central Florida.
@@ -40,11 +40,12 @@ education:
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:battend@knights.ucf.edu".
+    # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
   icon_pack: fab
   link:
@@ -61,7 +62,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "battend@knights.ucf.edu"
+#email: "battend@knights.ucf.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -70,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Dolores Batten is an Adjunct Professor at Eastern Florida State College. Her research interests include literature, critical theory, digital media, and cultural and feminist studies. She is the Essays Editor for the Academic Journal Plath Profiles and a current PhD Student at the University of Central Florida.
+Dolores Batten is an Adjunct Professor at Eastern Florida State College. Her research interests include literature, critical theory, digital media, videogame and game narrative studies, and cultural and feminist studies. She is the Essays Editor for the Academic Journal Plath Profiles and a current PhD Student at the University of Central Florida.
